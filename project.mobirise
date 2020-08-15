@@ -23,7 +23,7 @@
         "display4Font": "Poppins",
         "display4Size": 1,
         "isRoundedButtons": false,
-        "isScrollToTopButton": false,
+        "isScrollToTopButton": true,
         "arrowColor": "#fe7902"
       },
       "titlePreset": "Stretching Exercises",
