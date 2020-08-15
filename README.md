@@ -1,2 +1,2 @@
-# fit
-GitHub Pages
+# fitnessclubPWA
+Free Fitness Club Website Template #AMP #PWA
